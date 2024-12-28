@@ -8,7 +8,7 @@ const ContactUs = () => {
                     <h1 className="text-[30px] text-purple font-medium relative z-10" data-aos="fade-down">Get in touch</h1>
                     <p className="text-[16px] text-white w-[50%] font-mon relative z-10" data-aos="fade-down">Contact Information</p>
                     <p className="text-[16px] text-white w-[60%] xl:w-[40%] font-mon relative z-10" data-aos="fade-down">27,Alara Street Yaba 100012 Lagos State</p>
-                    <p className="text-[16px] text-white w-[70%] xl:w-[50%] font-mon relative z-10" data-aos="fade-down">Call Us : 07067981819</p>
+                    <p className="text-[16px] text-white w-[70%] xl:w-[50%] font-mon relative z-10" data-aos="fade-down">Call Us : 08087719172</p>
                     <p className="text-[16px] text-white w-[95%] xl:w-[70%] font-mon relative z-10" data-aos="fade-down">We are open from Monday-Friday
                         08:00am - 05:00pm</p>
 

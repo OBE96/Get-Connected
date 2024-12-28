@@ -44,7 +44,7 @@ const Footer = () => {
                 <h3 className="text-purple text-[16px] md:text-lg font-medium mb-6" data-aos="fade-down">Contact Us</h3>
                 <div className="flex gap-4 mb-4" data-aos="fade-down">
                     <BiSolidPhoneCall className="text-lg md:text-2xl text-white font-bold" />
-                    <p className="text-[14px] md:text-[16px] text-white">+234 6707653444</p>
+                    <p className="text-[14px] md:text-[16px] text-white">+234 8087719171</p>
                 </div>
                 <div className="flex gap-4" data-aos="fade-down">
                     <FaLocationDot className="text-lg md:text-2xl text-white font-bold" />
@@ -55,7 +55,7 @@ const Footer = () => {
 
             <section className=" relative z-10 flex flex-col items-center justify-center w-full mt-10">
             <p className="text-[14px] md:text-[16px] text-white font-mon leading-loose text-center w-full" data-aos="fade-down">All rights reserved. © getlinked Ltd.</p>
-            <p className="text-[14px] md:text-[16px] text-white font-mon leading-loose text-center w-full" data-aos="fade-down">Developed by Charles Obimnaetochukwu Egesionu</p>
+            <p className="text-[14px] md:text-[16px] text-white font-mon leading-loose text-center w-full" data-aos="fade-down">Developed by Odedame Bright Elo</p>
             </section>
 
 

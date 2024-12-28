@@ -21,7 +21,7 @@ const Hero = () => {
                         <h1 className="text-white font-extrabold text-4xl md:text-5xl relative z-1" data-aos="fade-down">Hackathon <span className="text-purple">1.0</span></h1>
                         <img src="./img/chainexplosion.png" alt="" className="w-20 md:w-50" />
                     </div>
-                    <p className="text-[16px] md:text-[20px] lg:text-left text-center text-white font-medium w-[95%] lg:w-[65%] mb-4 px-[2%] lg:px-0" data-aos="fade-down">Participate in getlinked tech Hackathon 2023 stand a chance to win a Big prize</p>
+                    <p className="text-[16px] md:text-[20px] lg:text-left text-center text-white font-medium w-[95%] lg:w-[65%] mb-4 px-[2%] lg:px-0" data-aos="fade-down">Participate in getlinked tech Hackathon 2024 stand a chance to win a Big prize</p>
 
                     <Link to="/register" className="btn py-3 px-10 text-white text-[16px] font-medium rounded-sm relative z-10" data-aos="fade-down">Register</Link>
 

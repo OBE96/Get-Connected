@@ -17,7 +17,7 @@ using for the upcoming event.</p>
 
 
                 <div className=" flex items-center p-0 lg:py-[20px] lg:px-[50px] w-full lg:w-[50%] h-full">
-                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">December 18, 2024</h1>
                 </div>
 
                 <div className="lg:hidden absolute bottom-[-10px] left-[-33px] rounded-full bubblering text-3xl font-medium  text-white flex items-center justify-center">1</div>
@@ -25,7 +25,7 @@ using for the upcoming event.</p>
 
             <section className="relative z-10 flex lg:flex-row flex-col-reverse items-center justify-center border-r-0 lg:border-l-0 border-l-4 border-purple pl-10 lg:pl-0 gap-8 lg:gap-0 mb-20 lg:mb-0 ml-5 md:ml-10 lg:ml-0">
                 <div className="relative flex items-center justify-start lg:justify-end p-0 lg:py-[20px] lg:px-[50px] w-full lg:w-[50%] h-full border-r-0 lg:border-r-4 border-purple">
-                    <h1 className="text-2xl font-medium text-purple text-left lg:text-right" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-left lg:text-right" data-aos="fade-down">December 18, 2024</h1>
 
                     <div className="hidden absolute bottom-[40px] right-[-33px] rounded-full bubblering text-3xl font-medium  text-white lg:flex items-center justify-center">2</div>
                 </div>
@@ -49,7 +49,7 @@ using for the upcoming event.</p>
 
 
                 <div className="p-0 lg:py-[20px] lg:px-[50px] w-full lg:w-[50%] h-full flex items-center">
-                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">December 18, 2024</h1>
                 </div>
 
                 <div className="lg:hidden absolute bottom-[-10px] left-[-33px] rounded-full bubblering text-3xl font-medium  text-white flex items-center justify-center">3</div>
@@ -57,7 +57,7 @@ using for the upcoming event.</p>
 
             <section className="relative z-10 flex lg:flex-row flex-col-reverse items-center justify-center border-r-0 lg:border-l-0 border-l-4 border-purple pl-10 lg:pl-0 gap-8 lg:gap-0 mb-20 lg:mb-0 ml-5 md:ml-10 lg:ml-0">
                 <div className="relative flex items-center justify-start lg:justify-end p-0 lg:py-[20px] lg:px-[50px] w-full lg:w-[50%] h-full border-r-0 lg:border-r-4 border-purple">
-                    <h1 className="text-2xl font-medium text-purple text-right" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-right" data-aos="fade-down">December 18, 2024</h1>
 
                     <div className="hidden absolute bottom-[40px] right-[-33px] rounded-full bubblering text-3xl font-medium  text-white lg:flex items-center justify-center">4</div>
                 </div>
@@ -82,7 +82,7 @@ and ideas</h1>
 
 
                 <div className="p-0 lg:py-[20px] lg:px-[50px] w-full lg:w-[50%] h-full flex items-center">
-                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-left" data-aos="fade-down">December 18, 2024</h1>
                 </div>
 
                 <div className="lg:hidden absolute bottom-[-10px] left-[-33px] rounded-full bubblering text-3xl font-medium  text-white flex items-center justify-center">5</div>
@@ -90,7 +90,7 @@ and ideas</h1>
 
             <section className="relative z-10 flex lg:flex-row flex-col-reverse items-center justify-center border-r-0 lg:border-l-0 border-l-4 border-purple pl-10 lg:pl-0 gap-8 lg:gap-0 mb-20 lg:mb-0 ml-5 md:ml-10 lg:ml-0">
                 <div className="relative flex items-center justify-start lg:justify-end p-0 lg:py-[20px] lg:px-[50px] lg:pb-0 w-full lg:w-[50%] h-full border-r-0 lg:border-r-4 border-purple">
-                    <h1 className="text-2xl font-medium text-purple text-left lg:text-right" data-aos="fade-down">November 18, 2023</h1>
+                    <h1 className="text-2xl font-medium text-purple text-left lg:text-right" data-aos="fade-down">December 18, 2024</h1>
                     <div className="hidden absolute bottom-[20px] right-[-33px] rounded-full bubblering text-3xl font-medium  text-white lg:flex items-center justify-center">6</div>
                 </div>
 
